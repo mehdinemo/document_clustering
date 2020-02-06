@@ -1,0 +1,3 @@
+{
+  "connection_string_classification": "DRIVER={ODBC Driver 17 for SQL Server};SERVER=192.168.30.251;DATABASE=my_db;UID=my_id;PWD=my_pass"
+}
